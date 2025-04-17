@@ -5,4 +5,8 @@
 `
     In staging Branch
     In Dev Branch
+<<<<<<< HEAD
 Need to archieve`
+=======
+New things happened skdjflkdsfjksskdf`
+>>>>>>> feature
